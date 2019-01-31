@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://www.adilarli.com/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
