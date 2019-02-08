@@ -83,7 +83,7 @@ almazsanız Ghost blogunuzu ve sunucunuzu local olarak başlatır. Daha sonra ht
 yeni yazılar oluşturabilirsiniz.
 
 Adınızı, blog bilgilerinizi ve blog yayınlarınız hakkındaki diğer verileri
-ayarlamak için kontrol paneline (http://localhost:2368/ghost ) adresinden
+ayarlamak için kontrol paneline (https://localhost:2368/ghost ) adresinden
 ulaşabilirsiniz.
 
 **Sonuç;**
